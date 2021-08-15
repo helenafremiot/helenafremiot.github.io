@@ -1,0 +1,13 @@
+h1 {color:blueviolet;
+}
+h1 {background-color: chartreuse;}
+li {list-style:none;
+    padding: 20px 30px 20px 30px;
+}
+ul {display: flex;}
+
+.header{background-color:darkorange; 
+        height:80px;
+    }
+
+     
